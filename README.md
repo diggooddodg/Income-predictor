@@ -3,8 +3,8 @@ Purpose: To use a supervised learning algorithm to predict income bracket for in
 
 ## Jupyter notebook contents
 All steps completed for this project may be found in the Jupyter Notebook including:  
---Data exploration.  
---Data preparation.  
---Algorithm evaluation and selection.  
---Model tuning.  
---Feature selection.
+1. Data exploration.  
+2. Data preparation.  
+3. Algorithm evaluation and selection.  
+4. Model tuning.  
+5. Feature selection.
